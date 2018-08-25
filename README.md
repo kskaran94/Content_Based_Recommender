@@ -27,3 +27,8 @@ Above mentioned techniques to generate recommender can be combined to compare ho
 
 Evaluation
 Recommenders are evaluated by comparing how close the recommended articles are to the articles read in the past. We also compare the articles recommended by different recommenders to get a glimpse of underlying mechanics of different recommender types.
+
+
+
+
+The data and trained topic model can be downloaded from here https://drive.google.com/open?id=1JatCZpudzxnia2FKWR5Ls1_fqpwAqJwL
